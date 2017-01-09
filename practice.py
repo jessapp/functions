@@ -161,6 +161,8 @@ def total_meal_price(price, tip=.15):
 #    unpack what is returned into two variables --- sign and parity (whether
 #    it's even or odd). Print sign and parity.
 
+# Had trouble with this problem - skipped ahead 
+
 def sign_and_parity(integer):
     
     information = []
